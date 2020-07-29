@@ -17,3 +17,6 @@ demo.py :  To visualize 2D pose(input), reconstructed 3D Mesh and corresponding 
 test.py :  To quantitatively evaluated this project
 
 And you have to change the path of annoatation file, pretrained model and smpl files..
+
+
+![MeshLifter][https://github.com/sunwonlikeyou/MeshLifter/blob/master/img_2Dinput_outputMesh.png]
