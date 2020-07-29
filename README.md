@@ -7,3 +7,10 @@ To download data files like  annotation for Human3.6M
 
 And Pretrained Model
 <https://drive.google.com/file/d/1ZZZJ55vJ8fdRmgzepnHHZYAm_Xm7eRj3/view?usp=sharing>
+
+Human3.6M dataset and Parsed file
+https://drive.google.com/drive/folders/1kgVH-GugrLoc9XyvP6nRoaFpw3TmM5xK
+
+
+demo.py :  To visualize 2D pose(input), reconstructed 3D Mesh and corresponding 2D images(Not input)
+test.py :  To quantitatively evaluated this project
