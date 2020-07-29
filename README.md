@@ -18,5 +18,3 @@ test.py :  To quantitatively evaluated this project
 
 And you have to change the path of annoatation file, pretrained model and smpl files..
 
-
-![img_2Dinput_outputMesh](https://user-images.githubusercontent.com/54057384/88774008-e210d700-d1bd-11ea-9e2a-1e8d85582ccd.png)
