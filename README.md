@@ -18,6 +18,5 @@ test.py :  To quantitatively evaluated this project
 
 And you have to change the path of annoatation file, pretrained model and smpl files..
 
-![rhd](https://user-images.githubusercontent.com/54057384/88774448-6d8a6800-d1be-11ea-94f1-e52a79b78031.png)
 
-![그림1](https://user-images.githubusercontent.com/54057384/88774980-13d66d80-d1bf-11ea-88dc-3df984c2f174.png)
+![그림1](https://user-images.githubusercontent.com/54057384/88774980-13d66d80-d1bf-11ea-88dc-3df984c2f174.png){: width="256" height="256"}
