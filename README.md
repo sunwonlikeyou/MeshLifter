@@ -14,3 +14,5 @@ https://drive.google.com/drive/folders/1kgVH-GugrLoc9XyvP6nRoaFpw3TmM5xK
 
 demo.py :  To visualize 2D pose(input), reconstructed 3D Mesh and corresponding 2D images(Not input)
 test.py :  To quantitatively evaluated this project
+
+And you have to change the path of annoatation file, pretrained model and smpl files..
